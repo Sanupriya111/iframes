@@ -1,0 +1,22 @@
+.section{
+    height: 750px;
+    width: 100%;
+    background-color: lightgrey;
+    display: flex;
+}
+.div1{
+    height: 100%;
+    width: 25%;
+    background-color: lightpink;
+}
+.div2{
+    height: 100%;
+    width: 75%;
+}
+.h1{
+    margin-left: 20px;
+}
+.h3
+{
+    margin-left: 20px;
+}
